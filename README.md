@@ -2,15 +2,9 @@
 
 👋 Hi there! I'm a passionate programmer. 💻 My GitHub showcases a blend of creativity and efficiency. 🌐 Excited about solving real-world problems through elegant code! Check out my projects below! 👨‍💻
 
-## 🤝 Connect with me
-<p align="center">
-	<a href="mailto:jorgecontact10@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="[https://www.linkedin.com/in/bouaskaoun/](https://www.linkedin.com/in/jorge-ronaldo-zegarra-mendoza-41919b270/)"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Drumville10"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-
 ## 🛠️ My Favorite Tools
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
 <p>
 	<a href="https://github.com/Drumville10"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -18,9 +12,10 @@
  	<a href="https://github.com/Drumville10"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%234EAA25.svg?logo=gnu-bash&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="Java" src="https://img.shields.io/badge/Java-%23D0742B.svg?logo=java&logoColor=white"></a>
   	<a href="https://github.com/Drumville10"><img alt="Visual Basic" src="https://img.shields.io/badge/Visual%20Basic%20-%23512BD4.svg?logo=visual-basic&logoColor=white"></a>
+</p>
 	
 
-### 🧰 Frameworks and Libraries
+### Frameworks and Libraries
 
 <p>
 	<a href="https://github.com/Drumville10"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF362A.svg?logo=Laravel&logoColor=white"></a>
@@ -30,7 +25,7 @@
 	<a href="https://github.com/Drumville10"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?logo=tailwind-css&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
     	<a href="https://github.com/Drumville10"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?logo=postgresql&logoColor=white"></a>
@@ -39,7 +34,7 @@
 
 </p>
 
-### 💻 Software and Tools
+### Software and Tools
 
 <p>
 	<a href="https://github.com/Drumville10"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -50,7 +45,7 @@
 
 </p>
 
-### 🖥️ Operating System
+### Operating System
 <p>
 	<a href="https://github.com/Drumville10"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
@@ -66,7 +61,6 @@
 		<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Drumville10" alt="Drumville10">
 	</a>
 </p>
-<br/>
 
 ### Top Lenguages
 <p align="center">
@@ -75,6 +69,13 @@
 	</a>
 	<br/>
 </p>
-<br/>
+
+## 🤝 Connect with me
+<p align="center">
+	<a href="mailto:jorgecontact10@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/jorge-ronaldo-zegarra-mendoza-41919b270/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/Drumville10"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+
+</p>
 
 

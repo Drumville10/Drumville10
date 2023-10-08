@@ -16,20 +16,23 @@
 	<a href="https://github.com/Drumville10"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 	<a href="https://github.com/Drumville10"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?logo=php&logoColor=white"></a>
  	<a href="https://github.com/Drumville10"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%234EAA25.svg?logo=gnu-bash&logoColor=white"></a>
+	<a href="https://github.com/Drumville10"><img alt="Java" src="https://img.shields.io/badge/Java-%23D0742B.svg?logo=java&logoColor=white"></a>
+  	<a href="https://github.com/Drumville10"><img alt="Visual Basic" src="https://img.shields.io/badge/Visual%20Basic%20-%23512BD4.svg?logo=visual-basic&logoColor=white"></a>
+	
 
 ### 🧰 Frameworks and Libraries
 
 <p>
 	<a href="https://github.com/Drumville10"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF362A.svg?logo=Laravel&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="Lumen" src="https://img.shields.io/badge/Lumen%20-%23F4645F.svg?logo=Lumen&logoColor=white"></a>
+	<a href="https://github.com/Drumville10"><img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=react&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?logo=tailwind-css&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Databases
 
 <p>
-    	<a href="https://github.com/Drumville10"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     	<a href="https://github.com/Drumville10"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?logo=postgresql&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?logo=mysql&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server%20-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
@@ -42,8 +45,10 @@
 	<a href="https://github.com/Drumville10"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+	<a href="https://github.com/Drumville10"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeans%20-%231B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"></a>
+	<a href="https://github.com/Drumville10"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?logo=visual-studio&logoColor=white"></a>
+
 </p>
-</br>
 
 ### 🖥️ Operating System
 <p>

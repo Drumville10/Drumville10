@@ -1,5 +1,7 @@
 # Hi, Im Jorge
 
+👋 Hi there! I'm a passionate programmer. 💻 My GitHub showcases a blend of creativity and efficiency. 🌐 Excited about solving real-world problems through elegant code! Check out my projects below! 👨‍💻
+
 
 ### My Stats
 

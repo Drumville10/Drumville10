@@ -3,8 +3,9 @@
 
 # My Stats
 
-[![](https://raw.githubusercontent.com/Drumville10/Drumville10/main/profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/Drumville10/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Drumville10/Drumville10/main/profile-summary-cards-example/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/Drumville10/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/Drumville10/Drumville10/main/profile-summary-cards-example/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/Drumville10/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Drumville10/Drumville10/main/profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/Drumville10/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/Drumville10/Drumville10/main/profile-summary-cards-example/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/Drumville10/github-profile-summary-cards)
+<p align="center">
+	<a href="[https://github.com/Bouaskaoun](https://github.com/Drumville10)">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Drumville10&show_icons=true" alt="Drumville10">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Drumville10" alt="Drumville10">
+	</a>
+	<br/>

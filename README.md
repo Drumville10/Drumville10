@@ -23,6 +23,7 @@
 	<a href="https://github.com/Drumville10"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF362A.svg?logo=Laravel&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="Lumen" src="https://img.shields.io/badge/Lumen%20-%23F4645F.svg?logo=Lumen&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+	<a href="https://github.com/Drumville10"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?logo=tailwind-css&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -31,6 +32,8 @@
     	<a href="https://github.com/Drumville10"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     	<a href="https://github.com/Drumville10"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?logo=postgresql&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?logo=mysql&logoColor=white"></a>
+	<a href="https://github.com/Drumville10"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server%20-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
+
 </p>
 
 ### 💻 Software and Tools

@@ -53,7 +53,7 @@
 </p>
 
 
-### My Stats
+<!--### My Stats
 
 <p align="center">
 	<a href="[https://github.com/Drumville10](https://github.com/Drumville10)">
@@ -61,7 +61,7 @@
 		<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Drumville10" alt="Drumville10">
 	</a>
 </p>
-
+-->
 ### Top Lenguages
 <p align="center">
 	<a href="https://github.com/Drumville10">

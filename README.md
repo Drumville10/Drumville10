@@ -20,6 +20,7 @@
 <p>
 	<a href="https://github.com/Drumville10"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF362A.svg?logo=Laravel&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="Lumen" src="https://img.shields.io/badge/Lumen%20-%23F4645F.svg?logo=Lumen&logoColor=white"></a>
+	<a href="https://github.com/Drumville10"><img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=vuedotjs&logoColor=#4FC08D"></a>
 	<a href="https://github.com/Drumville10"><img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=react&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 	<a href="https://github.com/Drumville10"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?logo=tailwind-css&logoColor=white"></a>

@@ -10,7 +10,9 @@
 </p>
 
 <p>
-  <a href="mailto:j.zegarra@robotodev.site"><img src="https://img.shields.io/badge/Email-j.zegarra@robotodev.site-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:j.zegarra@robotodev.site"><img src="https://img.shields.io/badge/Personal-j.zegarra@robotodev.site-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:contact@osmorelabs.com"><img src="https://img.shields.io/badge/Osmorelabs-contact@osmorelabs.com-3B82F6?style=flat-square&logo=mail.ru&logoColor=white"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jorge-ronaldo-zegarra-mendoza-41919b270/"><img src="https://img.shields.io/badge/LinkedIn-Jorge_Zegarra-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
@@ -91,6 +93,6 @@ I'm a passionate software engineer focused on building scalable, elegant solutio
 
 ### 🤝 Let's build something together
 
-**[osmorelabs.com](https://osmorelabs.com/)** · **[j.zegarra@robotodev.site](mailto:j.zegarra@robotodev.site)**
+**[osmorelabs.com](https://osmorelabs.com/)** · **[j.zegarra@robotodev.site](mailto:j.zegarra@robotodev.site)** · **[contact@osmorelabs.com](mailto:contact@osmorelabs.com)**
 
 </div>
